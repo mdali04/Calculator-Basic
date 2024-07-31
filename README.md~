@@ -1,0 +1,11 @@
+Basic Calculator
+This is a simple calculator application developed using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+Features
+Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division.
+Responsive Design: The layout adjusts to different screen sizes for better user experience.
+User-Friendly Interface: Clean and intuitive design for easy usage.
+Technologies Used
+HTML: For the structure and layout of the calculator.
+CSS: For styling and making the calculator visually appealing.
+JavaScript: For the functionality and logic behind the calculator operations.
